@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://github.com/bona-098/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=suryapardana&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="suryapardana" /></a> </p><br>
 
-<p align="center"><a href="https://avipatilweb.me/"><img src="![image](https://user-images.githubusercontent.com/61195048/212399280-baec7546-3804-4fe6-97e0-c6dcd33d90c9.png)" alt="Hello" width="150" height="150"/></a></p><br>
-
 - 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot) -->
 
 - 🌱 I’m currently learning **New thing**
@@ -28,7 +26,7 @@
 ```py
 About Me = [
     "I'm student with noob dev labels",
-    "A know about of Python, Html, PHP, CSS, Js",
+    "A know about of Html, PHP, CSS, Js, MySql",
     "New Things with code everyday",
     "I am in my world !! 💞"
     "I Work for Mine"
