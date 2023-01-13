@@ -1,4 +1,4 @@
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, Hallo there, i'm Bona Matanari</h1>
+<h1 align="center">Hallo there, i'm Bona Matanari  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a></h1>
 
 <h3 align="center">I am from Indonesia</h3>
 
