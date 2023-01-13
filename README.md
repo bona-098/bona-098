@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/bona-098/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=suryapardana&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="suryapardana" /></a> </p><br>
 
-<p align="center"><a href="https://avipatilweb.me/"><img src="https://sdk.bitmoji.com/render/panel/8f218be7-72ff-4513-b642-f1c750b5a618-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="150" height="150"/></a></p><br>
+<p align="center"><a href="https://avipatilweb.me/"><img src="![image](https://user-images.githubusercontent.com/61195048/212399280-baec7546-3804-4fe6-97e0-c6dcd33d90c9.png)" alt="Hello" width="150" height="150"/></a></p><br>
 
 - 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/avipatilpro/EdithUserBot) -->
 
