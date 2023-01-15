@@ -36,7 +36,6 @@ About Me = [
 <br>
 
 <p align="center">&nbsp;<img align="center" href="https://github.com/bona-098" src="https://github-readme-stats.vercel.app/api?username=bona-098&theme=algolia&show_icons=true" alt="bona-098"/></p></a>
-![bona-098 GitHub stats](https://github-readme-stats.vercel.app/api?username=bona-098&show_icons=true&theme=transparent)
 
 <!--
 <br>
